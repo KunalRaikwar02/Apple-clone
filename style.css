@@ -34,7 +34,7 @@ a {
 #center {
   height: 80%;
   width: 100%;
-  background-image: url(/iphone.jpg);
+  background-image: url(./image/iphone.jpg);
   background-size: cover;
   background-position: center;
   padding: 50px;
@@ -92,7 +92,7 @@ button {
 #center2 {
   height: 80%;
   width: 100%;
-  background-image: url(/flat\ iphone.jpg);
+  background-image: url(./image/flat\ iphone.jpg);
   background-size: cover;
   background-position: center;
   padding: 40px;
@@ -127,7 +127,7 @@ button {
 #left-box {
   height: 60%;
   width: 48%;
-  background-image: url(/promo\ iphone\ 17.jpg);
+  background-image: url(./image/promo\ iphone\ 17.jpg);
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -151,7 +151,7 @@ button {
 #right-box {
   height: 60%;
   width: 48%;
-  background-image: url(/promo\ icloud\ plus.jpg);
+  background-image: url(./image/promo\ icloud\ plus.jpg);
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -175,7 +175,7 @@ button {
 #left-bottom {
   height: 60%;
   width: 48%;
-  background-image: url(/apple\ watch\ series.jpg);
+  background-image: url(./image/apple\ watch\ series.jpg);
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -199,7 +199,7 @@ button {
 #right-bottom {
   height: 60%;
   width: 48%;
-  background-image: url(/airdrops.jpg);
+  background-image: url(./image/airdrops.jpg);
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -230,7 +230,7 @@ button {
   float: left; /* floated elements ke neeche aa jaayega */
   width: 48%;
   height: 60%;
-  background-image: url(/promo\ ipad\ air.jpg);
+  background-image: url(./image/promo\ ipad\ air.jpg);
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -254,7 +254,7 @@ button {
   float: left;
   width: 48%;
   height: 60%;
-  background-image: url(/promo\ iphone\ tradein.jpg);
+  background-image: url(./image/promo\ iphone\ tradein.jpg);
   background-size: cover;
   background-position: center;
   text-align: center;
